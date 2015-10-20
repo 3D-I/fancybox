@@ -1,5 +1,5 @@
 services:
-    vse.lightbox.listener:
+    lotusjeff.fancybox.listener:
         class: lotusjeff\fancybox\event\listener
         arguments:
             - @config
